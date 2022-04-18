@@ -1,0 +1,12 @@
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.csproj.AssemblyReference.cache
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.AssemblyInfo.cs
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\bin\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.deps.json
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\bin\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.dll
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\bin\Debug\net6.0\ref\ActiveLogin.Authentication.BankId.Api.dll
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\bin\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.pdb
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.dll
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ref\ActiveLogin.Authentication.BankId.Api.dll
+C:\Users\jonas\source\repos\DocFx_Example\ActiveLogin.Authentication.BankId.Api\obj\Debug\net6.0\ActiveLogin.Authentication.BankId.Api.pdb

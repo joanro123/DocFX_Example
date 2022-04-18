@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad289af8-a1f9-4a17-a897-cd38a576a49d": {
+      "ProjectGuid": "ad289af8-a1f9-4a17-a897-cd38a576a49d",
+      "DisplayName": "ActiveLogin.Authentication.BankId.Api",
+      "ColorIndex": 0
+    },
+    "097b0279-f8f4-4f46-b91f-d39b9ca85b2d": {
+      "ProjectGuid": "097b0279-f8f4-4f46-b91f-d39b9ca85b2d",
+      "DisplayName": "ActiveLogin.Authentication.BankId.Api",
+      "ColorIndex": 1
+    },
+    "6d1bd190-86e3-4c8c-9416-59ebdd291a4a": {
+      "ProjectGuid": "6d1bd190-86e3-4c8c-9416-59ebdd291a4a",
+      "DisplayName": "DocFX_Web",
+      "ColorIndex": 2
+    },
+    "0ad0825e-6dd6-4bae-8e4c-7dec0f1663ae": {
+      "ProjectGuid": "0ad0825e-6dd6-4bae-8e4c-7dec0f1663ae",
+      "DisplayName": "docs",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e782593c-0c7c-4784-b14f-e4b424f24c90": {
+      "ProjectGuid": "e782593c-0c7c-4784-b14f-e4b424f24c90",
+      "DisplayName": "src",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
